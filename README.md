@@ -3,7 +3,7 @@
 This repository contains a collection of data analysis projects that I have worked on. Each project is contained in its own Jupyter notebook file and includes a README with a brief description of the project, as well as instructions on how to run the project.
 Projects
 
-# Here is a list of the projects included in this repository:
+Here is a list of the projects included in this repository:
 
     1. Cars Data Analysis - This project involves analyzing a dataset containing information about various car models and their specifications, and using various data analysis techniques to gain insights about the data.
     2. Linear Regression of Car Sales - In this project, I performed a linear regression analysis on a dataset containing information about car sales, in order to predict future car sales based on various factors.
