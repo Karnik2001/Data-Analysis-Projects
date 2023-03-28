@@ -5,12 +5,12 @@ Projects
 
 # Here is a list of the projects included in this repository:
 
-    Cars Data Analysis - This project involves analyzing a dataset containing information about various car models and their specifications, and using various data analysis techniques to gain insights about the data.
-    Linear Regression of Car Sales - In this project, I performed a linear regression analysis on a dataset containing information about car sales, in order to predict future car sales based on various factors.
-    London Housing Data Analysis - This project involves analyzing a dataset containing information about housing prices in London, and using various data analysis techniques to gain insights about the data.
-    Netflix Data Analysis - In this project, I analyzed a dataset containing information about movies and TV shows available on Netflix, in order to gain insights about Netflix's content library.
-    Udemy Data Analysis - This project involves analyzing a dataset containing information about courses available on the online learning platform Udemy, and using various data analysis techniques to gain insights about the data.
-    Weather Data Analysis - In this project, I analyzed a dataset containing information about weather conditions in various cities, in order to gain insights about weather patterns.
+    1. Cars Data Analysis - This project involves analyzing a dataset containing information about various car models and their specifications, and using various data analysis techniques to gain insights about the data.
+    2. Linear Regression of Car Sales - In this project, I performed a linear regression analysis on a dataset containing information about car sales, in order to predict future car sales based on various factors.
+    3. London Housing Data Analysis - This project involves analyzing a dataset containing information about housing prices in London, and using various data analysis techniques to gain insights about the data.
+    4. Netflix Data Analysis - In this project, I analyzed a dataset containing information about movies and TV shows available on Netflix, in order to gain insights about Netflix's content library.
+    5. Udemy Data Analysis - This project involves analyzing a dataset containing information about courses available on the online learning platform Udemy, and using various data analysis techniques to gain insights about the data.
+    6. Weather Data Analysis - In this project, I analyzed a dataset containing information about weather conditions in various cities, in order to gain insights about weather patterns.
 
 # Running the Projects
 
